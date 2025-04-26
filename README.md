@@ -1,6 +1,6 @@
 # GitHub 4 Women - WomakersCode
 
-This repository is part of the **GitHub 4 Women** course organized by **WomakersCode**.  
+This repository is part of the **GitHub 4 Women** course organized by **WoMakersCode**.  
 Here, we practice and apply concepts related to Git and GitHub.
 
 ## Modules
